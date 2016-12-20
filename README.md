@@ -1,4 +1,4 @@
-# Census_of_Agriculture_and_Forestry_Statistical_table
+# census_of_agriculture_and_forestry_statistical_table
 　【和歌山県　農林業センサス です。】
 ◆農林業センサスとは
 農林業センサスは、我が国農林業の生産構造、就業構造を明らかにするとともに、農山村の実態を総合的に把握し、農林行政の企画・立案・推進のための基礎資料を作成し、提供することを目的に、５年ごとに行う調査です。 
